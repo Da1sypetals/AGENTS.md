@@ -1,1 +1,1 @@
-[AGENTS.md](./AGENTS.md)
+## Please read [AGENTS.md](./AGENTS.md)
