@@ -1,3 +1,11 @@
+---
+name: explain
+description: instructions on explaining something to user
+disable-model-invocation: true
+triggers:
+  - user
+---
+
 # explain-unit
 
 Explain 1 thing. Only explain the thing I told you to explain. 
